@@ -131,7 +131,7 @@ export default function Contact() {
                 icon: Mail,
                 label: 'E-mail',
                 value: company.email,
-                href: `mailto:${company.email}`,
+                href: `https://mail.google.com/mail/?view=cm&fs=1&to=${company.email}&su=Projeto%20com%20a%20LealSoft%20Labs`,
                 color: '#3B82F6',
               },
               {
