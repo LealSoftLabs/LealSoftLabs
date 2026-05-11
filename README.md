@@ -1,45 +1,43 @@
-# 🌐 LealSoftLabs - Website Oficial
+# 🚀 LealSoftLabs
 
-Este repositório contém o código-fonte do site oficial da LealSoftLabs, uma empresa focada no desenvolvimento de sistemas web, automações e soluções SaaS.
+Bem-vindo ao GitHub oficial da LealSoftLabs.
 
----
-
-## 🚀 Sobre o projeto
-
-Este site tem como objetivo apresentar a LealSoftLabs, seus serviços, projetos e visão como software house.
-
-Ele funciona como:
-- Landing page institucional
-- Portfólio da empresa
-- Ponto de contato para clientes e parceiros
+Somos uma empresa de tecnologia focada no desenvolvimento de sistemas modernos, escaláveis e orientados a resultados, com foco em SaaS, automação de processos e soluções digitais sob demanda.
 
 ---
 
-## 🧠 Sobre a LealSoftLabs
+## 🧠 Quem somos
 
-LealSoftLabs é uma empresa de tecnologia focada na criação de sistemas modernos, escaláveis e orientados a resultados.
+A LealSoftLabs é uma software house em crescimento, especializada na criação de produtos digitais e sistemas empresariais.
 
-Atuamos no desenvolvimento de:
-- Sistemas web (SaaS)
+Nosso foco é transformar ideias em soluções reais, utilizando engenharia de software moderna, boas práticas de arquitetura e tecnologias atuais do mercado.
+
+---
+
+## 💡 O que fazemos
+
+- Desenvolvimento de sistemas web (SaaS)
 - APIs e backends escaláveis
-- Automação de processos
-- Integrações com serviços externos
-- MVPs para startups
+- Plataformas administrativas
+- Automação de processos empresariais
+- Integrações com serviços externos (WhatsApp, IA, pagamentos)
+- MVPs para startups e validação de ideias
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## ⚙️ Stack principal
+
+### Backend
+- Java + Spring Boot
+- APIs REST
+- JWT / OAuth2
+- PostgreSQL / MySQL
 
 ### Frontend
-- React (ou HTML/CSS/JS, se for o caso)
+- React
 - TypeScript
 - TailwindCSS
 - Vite
-
-### Backend (se aplicável)
-- Java + Spring Boot
-- APIs REST
-- PostgreSQL / MySQL
 
 ### Infraestrutura
 - VPS Linux
@@ -48,35 +46,39 @@ Atuamos no desenvolvimento de:
 
 ---
 
-## 📁 Estrutura do projeto
+## 📦 Projetos
+
+Aqui estão alguns dos nossos projetos principais:
+
+### 📊 GerencIA
+Sistema de gestão inteligente com foco em automação de processos e organização empresarial.
+
+- Backend: Spring Boot
+- Frontend: React
+- Arquitetura monorepo
+- Integrações com serviços externos e IA
+
+---
+
+## 🧱 Padrão de desenvolvimento
+
+Todos os projetos seguem uma estrutura organizada e escalável:
 frontend/
-├── src/
-├── public/
-├── index.html
-
 backend/
-├── src/
-├── controllers/
-├── services/
+infra/
+docker/
+
+Foco em:
+- código limpo
+- escalabilidade
+- arquitetura bem definida
+- deploy automatizado
 
 ---
 
-## 🌐 Funcionalidades do site
+## 🚀 Visão
 
-- Apresentação da empresa
-- Lista de serviços
-- Seção de projetos
-- Informações de contato
-- Design responsivo (mobile-first)
-
----
-
-## 🚀 Deploy
-
-O site pode ser hospedado em:
-- VPS própria
-- Vercel (frontend)
-- Nginx + Docker
+Construir uma empresa de tecnologia capaz de desenvolver produtos próprios (SaaS) e soluções escaláveis para o mercado.
 
 ---
 
@@ -88,6 +90,6 @@ O site pode ser hospedado em:
 
 ---
 
-## 🧠 Observação
+## 🧠 Nota
 
-Este projeto representa o site institucional da LealSoftLabs e está em constante evolução conforme novos serviços e produtos são adicionados.
+Este perfil representa a base da LealSoftLabs e seus projetos de software em desenvolvimento contínuo.
