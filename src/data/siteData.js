@@ -90,6 +90,7 @@ export const siteData = {
     {
       name: 'MONETO',
       label: 'Fintech · SaaS',
+      url: 'https://moneto-frontend-psi.vercel.app/',
       description:
         'Sistema financeiro inteligente para organização de finanças pessoais. Controle de gastos, metas financeiras, relatórios detalhados, dashboard analítico e gestão completa das finanças.',
       features: [
@@ -107,6 +108,7 @@ export const siteData = {
     {
       name: 'GerencIA',
       label: 'SaaS · Agendamento',
+      url: 'https://gerenc-ia-phi.vercel.app/',
       description:
         'Sistema de agendamento online para barbearias, salões, clínicas e profissionais autônomos. Gestão completa de serviços, profissionais, clientes e agenda com confirmação via WhatsApp.',
       features: [
