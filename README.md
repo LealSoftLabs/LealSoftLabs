@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 LealSoftLabs
 
 Bem-vindo ao GitHub oficial da LealSoftLabs.
@@ -199,4 +198,3 @@ Focamos em criar softwares modernos, escaláveis e com experiência premium.
 ## 📄 Licença
 
 Projeto privado. Todos os direitos reservados.
->>>>>>> b373796 (chore: cleanup project structure and ignore node_modules)
